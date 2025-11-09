@@ -1,0 +1,50 @@
+# Site Settings
+title: Chutima Selakhun - Portfolio
+description: Frontend Developer portfolio showcasing projects and skills
+author: Chutima Selakhun
+email: chutimasalakhun@gmail.com
+phone: 063-4650650
+location: Thailand
+
+# Social Media
+github_username: Whalienz
+linkedin_url: "#"
+twitter_url: "#"
+facebook_url: "#"
+
+# Hero Section
+hero:
+  subtitle: Frontend Developer
+  description: Welcome to my digital space where creativity meets technology
+  profile_image: images/ICat.gif
+
+# About Section
+about:
+  description_1: "Nice to meet you! I'm Chutima Selakhun, a passionate developer who loves creating new things and solving problems with technology."
+  description_2: "I enjoy learning new technologies and applying them to various projects to create the best possible experience for users."
+  stats:
+    projects: "10+"
+    coffee_cups: "∞"
+    ideas: "100+"
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  projects:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

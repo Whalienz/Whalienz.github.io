@@ -6,7 +6,7 @@
     - CSS
     - JavaScript
   code_url: "#"
-  demo_url: "/submission1.html"
+  demo_url: "/submission1"
 
 - title: Submission 2
   description: An innovative solution to everyday problems using cutting-edge technology
@@ -16,7 +16,7 @@
     - Node.js
     - MongoDB
   code_url: "#"
-  demo_url: "/submission2.html"
+  demo_url: "/submission2"
 
 - title: Submission 3
   description: A creative project showcasing design and development skills
@@ -26,4 +26,4 @@
     - Django
     - PostgreSQL
   code_url: "#"
-  demo_url: "/submission3.html"
+  demo_url: "/submission3"

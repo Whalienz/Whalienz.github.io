@@ -1,9 +1,3 @@
----
-layout: default
-title: Dynamic Routing - Submission 1
----
-
-{:.pt-20}
 # ศัพท์ Dynamic Routing
 
 ---

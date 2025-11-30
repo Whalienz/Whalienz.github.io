@@ -1,9 +1,3 @@
----
-layout: default
-title: MADMAN MIB - Submission 2
----
-
-{:.pt-20}
 # ศัพท์ MADMAN MIB
 
 ---

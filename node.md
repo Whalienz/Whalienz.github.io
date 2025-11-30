@@ -1,9 +1,3 @@
----
-layout: default
-title: Node - Submission 3
----
-
-{:.pt-20}
 # ศัพท์ Node
 
 ---

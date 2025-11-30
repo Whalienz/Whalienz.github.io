@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+
+{% include projects.html %}
+
+{% include skills.html %}
+
+{% include about.html %}
+
+{% include contact.html %}

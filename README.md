@@ -11,11 +11,13 @@ Constantly learning and exploring new technologies to craft innovative solutions
 
 &nbsp;
 
-## 🚀 Submit Work
+## 🚀 Submit work
 
-| Dynamic Routing | MADMAN MIB | Node |
-|:---:|:---:|:---:|
-| [View →](dynamic-routing.md) | [View →](madman-mib.md) | [View →](node.md) |
+### 🔗 [Dynamic Routing](dynamic-routing.md)
+
+### 🎮 [MADMAN MIB](madman-mib.md)
+
+### 📦 [Node](node.md)
 
 &nbsp;
 

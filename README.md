@@ -1,6 +1,11 @@
-# Chutima Selakhun - Portfolio
 
-**Frontend Developer**
+## 🚀 Submit work
+
+### 🔗 [Dynamic Routing](dynamic-routing.md)
+
+### 🎮 [MADMAN MIB](madman-mib.md)
+
+### 📦 [Node](node.md)
 
 ---
 
@@ -24,16 +29,6 @@ I'm a passionate developer focused on building modern web applications and creat
 
 ### Creative Tools
 - **Premiere Pro** - Video editing and production
-
----
-
-## 🚀 Submit work
-
-### 🔗 [Dynamic Routing](dynamic-routing.md)
-
-### 🎮 [MADMAN MIB](madman-mib.md)
-
-### 📦 [Node](node.md)
 
 ---
 

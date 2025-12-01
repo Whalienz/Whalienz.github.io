@@ -15,9 +15,9 @@ Constantly learning and exploring new technologies to craft innovative solutions
 
 ### 🔗 [Dynamic Routing](dynamic-routing.md)
 
-### 🎮 [MADMAN MIB](madman-mib.md)
+### 🔗 [MADMAN MIB](madman-mib.md)
 
-### 📦 [Node](node.md)
+### 🔗 [Node](node.md)
 
 &nbsp;
 

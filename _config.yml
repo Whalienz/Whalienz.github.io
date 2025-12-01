@@ -4,7 +4,7 @@ description: Frontend Developer portfolio
 author: Chutima Selakhun
 
 # Theme Settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 # Markdown Settings
 markdown: kramdown

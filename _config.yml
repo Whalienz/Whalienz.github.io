@@ -3,14 +3,18 @@ title: Chutima Selakhun - Portfolio
 description: Frontend Developer portfolio
 author: Chutima Selakhun
 
+# Theme Settings
+theme: jekyll-theme-slate
+# Alternative modern dark themes:
+# theme: jekyll-theme-minimal (clean, minimal, grayscale)
+# theme: jekyll-theme-hacker (dark with green accent)
+# theme: jekyll-theme-midnight (dark blue-black)
+
 # Markdown Settings
 markdown: kramdown
 permalink: pretty
 
 # Exclude files from build
 exclude:
-  - README.md
-  - TEMPLATE_GUIDE.md
-  - portfolio-pure.md
   - Gemfile
   - Gemfile.lock

@@ -27,16 +27,13 @@ I'm a passionate developer focused on building modern web applications and creat
 
 ---
 
-## 🚀 Projects
+## 🚀 Submit work
 
 ### 🔗 [Dynamic Routing](dynamic-routing.md)
-Advanced routing implementation with dynamic navigation
 
 ### 🎮 [MADMAN MIB](madman-mib.md)
-Interactive project showcasing modern web capabilities
 
 ### 📦 [Node](node.md)
-Backend development and Node.js implementation
 
 ---
 

@@ -1,4 +1,4 @@
-# ศัพท์ Dynamic Routing
+# ศัพท์ : Dynamic Routing
 
 ---
 

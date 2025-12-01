@@ -1,4 +1,4 @@
-# ศัพท์ MADMAN MIB
+# ศัพท์ : MADMAN MIB
 
 ---
 

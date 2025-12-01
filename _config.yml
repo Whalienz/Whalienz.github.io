@@ -4,9 +4,9 @@ description: Frontend Developer portfolio
 author: Chutima Selakhun
 
 # Theme Settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 # Alternative modern dark themes:
-# theme: jekyll-theme-minimal (clean, minimal, grayscale)
+# theme: jekyll-theme-slate
 # theme: jekyll-theme-hacker (dark with green accent)
 # theme: jekyll-theme-midnight (dark blue-black)
 

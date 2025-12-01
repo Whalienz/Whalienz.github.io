@@ -1,0 +1,16 @@
+# GitHub Pages Settings
+title: Chutima Selakhun - Portfolio
+description: Frontend Developer portfolio
+author: Chutima Selakhun
+
+# Theme Settings
+theme: jekyll-theme-midnight
+
+# Markdown Settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock

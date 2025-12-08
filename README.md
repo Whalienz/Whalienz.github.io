@@ -41,6 +41,18 @@ Constantly learning and exploring new technologies to craft innovative solutions
 
 &nbsp;
 
+## 🏆 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Date | View |
+|:------------|:-------|:-----|:----:|
+| **Cybersecurity Fundamentals** | APNIC Academy | December 2025 | [📄 View PDF](certificates/Whalienz52-Cybersecurity-Fundamentals-Cybersecurity-Fundamentals-APNIC-Academy.pdf) |
+
+</div>
+
+&nbsp;
+
 ## 📊 GitHub Stats
 
 Check out my GitHub profile for my latest work and contributions:

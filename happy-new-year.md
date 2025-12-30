@@ -1,4 +1,4 @@
-# 🎉 Happy New Year 2025! 🎊
+# 🎉 Happy New Year 2026! 🎊
 
 > _Wishing you a year filled with success, happiness, and endless possibilities!_
 
@@ -6,7 +6,7 @@
 
 ## 🎁 Special New Year Greeting Card
 
-![Happy New Year 2025](images/freepoint.png)
+![Happy New Year 2026](images/freepoint.png)
 
 ---
 

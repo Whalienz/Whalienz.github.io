@@ -9,7 +9,7 @@
 I'm a passionate developer focused on building **modern web applications** and **creative digital experiences**.
 Constantly learning and exploring new technologies to craft innovative solutions.
 
-### 🎉 [Happy New Year 2025!](happy-new-year.md)
+### 🎉 [Happy New Year 2026!](happy-new-year.md)
 
 &nbsp;
 

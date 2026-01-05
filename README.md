@@ -56,6 +56,8 @@ Constantly learning and exploring new technologies to craft innovative solutions
 Check out my GitHub profile for my latest work and contributions:
 **[github.com/Whalienz](https://github.com/Whalienz)**
 
+### 📈 [Git Wrapped 2025](git-wrapped.md)
+
 &nbsp;
 
 ## 📫 Get In Touch

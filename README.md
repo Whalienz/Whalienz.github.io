@@ -21,7 +21,7 @@ Constantly learning and exploring new technologies to craft innovative solutions
 
 ### 🔗 [Node](node.md)
 
-### 🔗 [Web Security](session-fixation.md)
+### 🔗 [Session Fixation](session-fixation.md)
 
 &nbsp;
 

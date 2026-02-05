@@ -20,8 +20,8 @@ Constantly learning and exploring new technologies to craft innovative solutions
 ### 🔗 [MADMAN MIB](madman-mib.md)
 
 ### 🔗 [Node](node.md)
-
-### 🔗 [Session Fixation](session-fixation.md)
+<!-- 
+### 🔗 [Session Fixation](session-fixation.md) -->
 
 &nbsp;
 

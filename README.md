@@ -22,8 +22,8 @@ Constantly learning and exploring new technologies to craft innovative solutions
 ### 🔗 [Node](node.md)
 
 ### 🔗 [Lab: Configure Advanced Audit Policy](lab-configure-advanced-audit-policy.md)
-<!--
-### 🔗 [Session Fixation](session-fixation.md) -->
+
+### 🔗 [Session Fixation](session-fixation.md)
 
 &nbsp;
 

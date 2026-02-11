@@ -1,6 +1,7 @@
 # 🔐 Lab: Configure Advanced Audit Policy
 > _การตั้งค่า Advanced Audit Policy_
 
+![Step 0](images/lab-configure-advanced-audit-policy/0.png)
 ---
 
 ### 📋 โจทย์
